@@ -1,0 +1,7 @@
+/Users/r0g0ahs/Downloads/cache-tracker/src/main/java/com/cachetracker/controller/UserController.java
+/Users/r0g0ahs/Downloads/cache-tracker/src/main/java/com/cachetracker/CacheTrackerApplication.java
+/Users/r0g0ahs/Downloads/cache-tracker/src/main/java/com/cachetracker/config/RedisConfig.java
+/Users/r0g0ahs/Downloads/cache-tracker/src/main/java/com/cachetracker/annotations/TrackCache.java
+/Users/r0g0ahs/Downloads/cache-tracker/src/main/java/com/cachetracker/aspect/CacheTrackerAspect.java
+/Users/r0g0ahs/Downloads/cache-tracker/src/main/java/com/cachetracker/service/UserService.java
+/Users/r0g0ahs/Downloads/cache-tracker/src/main/java/com/cachetracker/metrics/CacheMetrics.java
